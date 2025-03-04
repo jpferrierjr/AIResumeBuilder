@@ -1,0 +1,139 @@
+{
+    "about":{
+        "name": "John Ferrier",
+        "email": "",
+        "phone": "",
+        "website": "https://johnferrier.com/",
+        "linkedin": "https://www.linkedin.com/in/jpferrierjr/",
+        "github": "https://github.com/jpferrierjr",
+        "location": "Cambridge, MA"
+    },
+    "summary": "",
+    "education":[
+        {
+            "id": 1,
+            "school": "",
+            "start-date": "",
+            "end-date": "",
+            "degree": "",
+            "minor": "",
+            "thesis": ""
+        }
+    ],
+    "experiences":[
+        { 
+            "id":1, 
+            "company":"", 
+            "start":"", 
+            "end":"", 
+            "jobtitle":"",
+            "company_image":"", 
+            "text_primary":"", 
+            "text_secondary":"",
+            "projects":
+            [
+                { 
+                    "id":1, 
+                    "description": "Accomplished Z as measured by X by doing Y", 
+                    "skills":[ 1 ], 
+                    "subskills":[ 1 ]
+                },
+                { 
+                    "id":2, 
+                    "description": "Accomplished X as measured by Y by doing Z", 
+                    "skills":[ 1 ], 
+                    "subskills":[ 2 ] },
+                { 
+                    "id":3, 
+                    "description": "Accomplished Y as measured by Z by doing X",
+                    "skills":[ 1 ], 
+                    "subskills":[ 3 ] 
+                }
+            ]
+        }
+    ],
+    "projects":[
+        {
+            "id": 1,
+            "title": "",
+            "link": "",
+            "description": "",
+            "skillsUsed": [ 1 ],
+            "subSkillsUsed": [ 1, 2, 3 ]
+        }
+    ],
+    "publications":[
+        {
+            "id": 1,
+            "title": "",
+            "authors":"",
+            "journal": "",
+            "year":"",
+            "volume":"",
+            "issue":"",
+            "page_range":"",
+            "DOI": "",
+            "link": "",
+            "skillsUsed": [  ],
+            "subSkillsUsed": [ ]
+        }
+    ],
+    "presentations":[
+        {
+            "id": 1,
+            "title": "",
+            "authors": "",
+            "link": "",
+            "event": "",
+            "date": "",
+            "skillsUsed": [ 1 ],
+            "subSkillsUsed": [ 1, 2, 3 ]
+        }
+    ],
+    "skills": [
+        { 
+            "id": 1,
+            "skill": "Python", 
+            "subskills": [ 1, 2, 3 ]
+        }
+    ],
+    "subskills": [
+        { 
+            "id": 1, 
+            "skill": "Numpy"
+        },
+        { 
+            "id": 2, 
+            "skill": "Pandas"
+        },
+        { 
+            "id": 3, 
+            "skill": "SciPy"
+        }
+    ],
+    "outreach":[
+        {
+            "id": 1,
+            "title": "",
+            "image":"", 
+            "group":"", 
+            "description": ""
+        }
+    ],
+    "awards":[
+        {
+            "award":"",
+            "organization":"",
+            "link":"",
+            "description":""
+        }
+    ],
+    "patents":[
+        {
+            "id": 1,
+            "title": "",
+            "patent_number": "",
+            "link": ""
+        }
+    ]
+}
