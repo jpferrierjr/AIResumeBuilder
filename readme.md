@@ -25,7 +25,7 @@ Simply go to the [Ollama download page](https://ollama.com/download) and downloa
 
 
 #### WKHTMLtoPDF
-The second software, which is used for creating the PDF Resume/CV and Cover Letters, is the WK HTML to PDF software. Go the the [wkhtmltopdf downloads page](ttps://wkhtmltopdf.org/downloads.html) and install the correct version for your operating system.
+The second software, which is used for creating the PDF Resume/CV and Cover Letters, is the WK HTML to PDF software. Go the the [wkhtmltopdf downloads page](https://wkhtmltopdf.org/downloads.html) and install the correct version for your operating system.
 
 Unlike Ollama, you will need to add the installed `/bin` folder to your system PATH. This is because the software directly calls the executable to run the conversion of the HTML version of the resume to PDF.
 
