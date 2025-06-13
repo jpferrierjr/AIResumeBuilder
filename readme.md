@@ -1,3 +1,5 @@
+## NOTE: This implementation has been deprecated with by my new version. This is a bit sloppy and slapped together quickly. My new version is __currently__ private but implements a more object-oriented approach to simplify the problem.
+
 # Resume Builder
 
 This software is meant to be a free alternative to the standard paid AI Resume builders. The trade-off, at this current point in time, is that the LLM and BERT models are run locally. So, this requires a decent computer for good results. The general bare-minimum requirements are as follows
